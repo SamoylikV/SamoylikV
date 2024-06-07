@@ -24,10 +24,6 @@ Hello! I'm Vasiliy Samoylik, a Backend Software Engineer
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamoylikV&layout=compact&theme=radical)
 
-## 📈 Contribution Graph
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SamoylikV&theme=redical)
-
 ## 📬 Contact Me
 
 Feel free to reach out via [email](mailto:vasya.samoylik@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/vasiliy-samoylik-674951270/)
